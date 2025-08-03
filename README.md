@@ -1,6 +1,6 @@
 # JavaScript-Mini-Projects-Collection
 
-A curated set of beginner-to-intermediate JavaScript projects, each focusing on a practical use case or concept. This collection is ideal for learning, practicing, or demonstrating modern JavaScript skills.
+Created a curated set of beginner-to-intermediate JavaScript projects, each focusing on a practical use case or concept. This collection demonstratates modern JavaScript skills.
 
 ### To-Do List
 A simple to-do list app with dark mode. Add, complete, and delete tasks with persistent storage using localStorage.
